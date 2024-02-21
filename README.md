@@ -9,9 +9,9 @@ It is inspired by [kicad-library](https://github.com/OpenCleanEnergy/kicad-libra
 git remote add -f kicad-symbols https://gitlab.com/kicad/libraries/kicad-symbols.git
 ```
 
-2. Add the subtree
+2. Add the subtree (check your KiCad Version and insert correct version)
 ```bash
-git subtree add --prefix symbols kicad-symbols master --squash
+git subtree add --prefix symbols kicad-symbols v7 --squash
 ```
 
 ## Add KiCad Footprints
@@ -21,9 +21,9 @@ git subtree add --prefix symbols kicad-symbols master --squash
 git remote add -f kicad-footprints https://gitlab.com/kicad/libraries/kicad-footprints.git
 ```
 
-2. Add the subtree
+2. Add the subtree (check your KiCad Version and insert correct version)
 ```bash
-git subtree add --prefix footprints kicad-footprints master --squash
+git subtree add --prefix footprints kicad-footprints v7 --squash
 ```
 
 ## Add KiCad 3D packages
