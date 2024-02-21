@@ -1,6 +1,6 @@
 # KiCad_Library
 This repository contains our KiCad symbol librariy with atomic parts.
-It is inspired by: [kicad-library](https://github.com/OpenCleanEnergy/kicad-library)
+It is inspired by [kicad-library](https://github.com/OpenCleanEnergy/kicad-library) and is using the [KiCad-Db-Lib](https://github.com/Projektanker/kicad-db-lib).
 
 ## Add KiCad Symbols
 
