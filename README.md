@@ -40,12 +40,14 @@ git subtree add --prefix packages3D kicad-packages3D master --squash
 
 ## Update KiCad Symbols, Footprints or 3D packages
 
-### Symbols (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
+### Symbols
+Check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`.
 ```bash
 git subtree pull --prefix symbols kicad-symbols KICAD_VERSION --squash
 ```
 
-### Footprints (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
+### Footprints
+Check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`.
 ```bash
 git subtree pull --prefix footprints kicad-footprints KICAD_VERSION --squash
 ```
