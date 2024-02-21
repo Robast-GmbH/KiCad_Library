@@ -1,0 +1,16 @@
+{
+  "Library": "_C_1206",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "22uF_25V",
+  "Footprint": "Capacitor_SMD:C_1206_3216Metric",
+  "Description": "Capacitor 22uF 25V X7R 10% 1206",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL31A226KAHNNN.do",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL31A226KAHNNNE",
+    "OC_LCSC": "C12891",
+    "OC_MOUSER": ""
+  }
+}
