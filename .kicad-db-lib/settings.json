@@ -1,0 +1,12 @@
+{
+  "CustomFields": [
+    "MF",
+    "MPN",
+    "OC_LCSC",
+    "OC_MOUSER"
+  ],
+  "DatabasePath": "parts",
+  "FootprintsPath": "footprints",
+  "SymbolsPath": "symbols",
+  "OutputPath": "output"
+}
