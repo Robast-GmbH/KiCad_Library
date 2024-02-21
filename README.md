@@ -9,9 +9,9 @@ It is inspired by [kicad-library](https://github.com/OpenCleanEnergy/kicad-libra
 git remote add -f kicad-symbols https://gitlab.com/kicad/libraries/kicad-symbols.git
 ```
 
-2. Add the subtree (check your KiCad Version and insert correct version)
+2. Add the subtree (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
 ```bash
-git subtree add --prefix symbols kicad-symbols v7 --squash
+git subtree add --prefix symbols kicad-symbols KICAD_VERSION --squash
 ```
 
 ## Add KiCad Footprints
@@ -21,9 +21,9 @@ git subtree add --prefix symbols kicad-symbols v7 --squash
 git remote add -f kicad-footprints https://gitlab.com/kicad/libraries/kicad-footprints.git
 ```
 
-2. Add the subtree (check your KiCad Version and insert correct version)
+2. Add the subtree (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
 ```bash
-git subtree add --prefix footprints kicad-footprints v7 --squash
+git subtree add --prefix footprints kicad-footprints KICAD_VERSION --squash
 ```
 
 ## Add KiCad 3D packages
@@ -40,14 +40,14 @@ git subtree add --prefix packages3D kicad-packages3D master --squash
 
 ## Update KiCad Symbols, Footprints or 3D packages
 
-### Symbols
+### Symbols (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
 ```bash
-git subtree pull --prefix symbols kicad-symbols master --squash
+git subtree pull --prefix symbols kicad-symbols KICAD_VERSION --squash
 ```
 
-### Footprints
+### Footprints (check your KiCad Version and insert correct `KICAD_VERSION`, at the time of writing this is `v7`)
 ```bash
-git subtree pull --prefix footprints kicad-footprints master --squash
+git subtree pull --prefix footprints kicad-footprints KICAD_VERSION --squash
 ```
 
 ### 3D packages
