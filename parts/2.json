@@ -1,0 +1,16 @@
+{
+  "Library": "_MCU",
+  "Reference": "U",
+  "Symbol": "Robast:ESP32-WROOM-32E",
+  "Value": "ESP32-WROOM-32E-N8",
+  "Footprint": "Robast:ESP32-WROOM-32E",
+  "Description": "ESP32-WROOM-32E-N8, 8 MB Flash, PCB Antenna",
+  "Datasheet": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf",
+  "Keywords": "ESP32",
+  "CustomFields": {
+    "MF": "Espressif Systems",
+    "MPN": "ESP32-WROOM-32E-N8",
+    "OC_LCSC": "C701342",
+    "OC_MOUSER": ""
+  }
+}
