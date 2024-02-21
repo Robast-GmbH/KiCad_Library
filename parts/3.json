@@ -6,7 +6,7 @@
   "Footprint": "Capacitor_SMD:C_1206_3216Metric",
   "Description": "Capacitor 4.7uF 50V X7R 10% 1206",
   "Datasheet": "",
-  "Keywords": "",
+  "Keywords": "Cap Capacitor",
   "CustomFields": {
     "MF": "FH",
     "MPN": "1206B475K500NT",
