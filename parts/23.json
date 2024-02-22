@@ -1,0 +1,16 @@
+{
+  "Library": "_Logic_Level_Translator",
+  "Reference": "U",
+  "Symbol": "Logic_LevelTranslator:TXB0104PW",
+  "Value": "TXB0104PW",
+  "Footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "Description": "4-Bit Bidirectional Voltage-level Translator With Automatic Direction Sensing 1.2V-3.6V to 1.65V-5.5V",
+  "Datasheet": "http://www.ti.com/lit/ds/symlink/txb0104.pdf",
+  "Keywords": "Bidirectional Level Translator",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "TXB0104PWR",
+    "OC_LCSC": "C60708",
+    "OC_MOUSER": ""
+  }
+}
