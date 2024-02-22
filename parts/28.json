@@ -1,0 +1,16 @@
+{
+  "Library": "_Fuse",
+  "Reference": "F",
+  "Symbol": "Device:Fuse",
+  "Value": "2A",
+  "Footprint": "Robast:Fuse_154_OMNI_BLOK",
+  "Description": "SMD Fuse NANO 154 OMNI-BLOK Fuse and Holder Combination",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_Littelfuse-0154002-DRT_C206911.pdf",
+  "Keywords": "SMD Fuse",
+  "CustomFields": {
+    "MF": "Littelfuse",
+    "MPN": "0154002.DRT",
+    "OC_LCSC": "",
+    "OC_MOUSER": ""
+  }
+}
