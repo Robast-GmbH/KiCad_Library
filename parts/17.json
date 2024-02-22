@@ -1,0 +1,16 @@
+{
+  "Library": "_R_0402",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "100",
+  "Footprint": "Resistor_SMD:R_0402_1005Metric",
+  "Description": "Resistor 100 1% 62.5mW 50V 0402",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0402WGF1000TCE",
+    "OC_LCSC": "C25076",
+    "OC_MOUSER": ""
+  }
+}
