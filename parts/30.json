@@ -1,0 +1,16 @@
+{
+  "Library": "_Regulator_Linear",
+  "Reference": "U",
+  "Symbol": "Regulator_Linear:AMS1117-3.3",
+  "Value": "AMS1117-3.3",
+  "Footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "Description": "1A Fixed 3.3V Positive SOT-223 Linear Voltage Regulators (LDO)",
+  "Datasheet": "http://www.advanced-monolithic.com/pdf/ds1117.pdf",
+  "Keywords": "LDO 3.3V",
+  "CustomFields": {
+    "MF": "Advanced Monolithic Systems",
+    "MPN": "AMS1117-3.3",
+    "OC_LCSC": "C6186",
+    "OC_MOUSER": ""
+  }
+}
