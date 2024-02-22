@@ -1,0 +1,16 @@
+{
+  "Library": "_Diode_Schottky",
+  "Reference": "D",
+  "Symbol": "Device:D_Schottky",
+  "Value": "SS34",
+  "Footprint": "Diode_SMD:D_SMA",
+  "Description": "Schottky Diode 40V 3A 0.55V@3A ",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2303141100_MDD-Microdiode-Electronics--SS34_C8678.pdf",
+  "Keywords": "Diode Schottky",
+  "CustomFields": {
+    "MF": "MDD",
+    "MPN": "SS34",
+    "OC_LCSC": "C8678",
+    "OC_MOUSER": ""
+  }
+}
