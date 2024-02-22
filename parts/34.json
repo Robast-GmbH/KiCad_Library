@@ -1,0 +1,16 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "15uH@4.5A",
+  "Footprint": "Robast:Power_Inductor_SMDRI127",
+  "Description": "Shielded Power Inductor 15uH@4.5A, 0.027\u03A9, I_SAT=8A",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2108131530_SXN-Shun-Xiang-Nuo-Elec-SMDRI127-150MT_C40000.pdf",
+  "Keywords": "Shielded Power Inductor",
+  "CustomFields": {
+    "MF": "SXN(Shun Xiang Nuo Elec)",
+    "MPN": "SMDRI127-150MT",
+    "OC_LCSC": "C40000",
+    "OC_MOUSER": ""
+  }
+}
