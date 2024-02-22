@@ -1,0 +1,16 @@
+{
+  "Library": "_Oscillator",
+  "Reference": "Y",
+  "Symbol": "Device:Crystal",
+  "Value": "8Mhz",
+  "Footprint": "Crystal:Crystal_SMD_HC49-SD",
+  "Description": " 8MHz 20pF \u00B120ppm HC-49S-SMD Crystal",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_YXC-X49SM8MSD2SC_C12674.pdf",
+  "Keywords": "Crystal",
+  "CustomFields": {
+    "MF": "YXC",
+    "MPN": "X49SM8MSD2SC",
+    "OC_LCSC": "C12674",
+    "OC_MOUSER": ""
+  }
+}
