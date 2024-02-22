@@ -1,0 +1,16 @@
+{
+  "Library": "_Transistor_BJT",
+  "Reference": "Q",
+  "Symbol": "Device:Q_NPN_BCE",
+  "Value": "SS8050",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23",
+  "Description": "25V 300mW 200@100mA,1V 1.5A NPN SOT-23 Bipolar Transistors",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--SS8050_C2150.pdf",
+  "Keywords": "Bipolar Transistor",
+  "CustomFields": {
+    "MF": "Jiangsu Changjing Electronics Technology",
+    "MPN": "SS8050",
+    "OC_LCSC": "C2150",
+    "OC_MOUSER": ""
+  }
+}
