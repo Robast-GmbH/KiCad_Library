@@ -3,7 +3,7 @@
   "Reference": "C",
   "Symbol": "Device:C",
   "Value": "1u_50V",
-  "Footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
   "Description": "Capacitor 1uF 50V X7R 10% 0805",
   "Datasheet": "https://product.samsungsem.com/mlcc/CL21B105KBFNNN.do",
   "Keywords": "Cap Capacitor",
