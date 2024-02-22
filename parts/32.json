@@ -1,0 +1,16 @@
+{
+  "Library": "_C_0603",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "10uF_25V",
+  "Footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "Description": "Capacitor 10uF 25V X5R 20% 0603",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL10A106MA8NRN.do",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL10A106MA8NRNC",
+    "OC_LCSC": "C96446",
+    "OC_MOUSER": ""
+  }
+}
