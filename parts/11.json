@@ -1,0 +1,16 @@
+{
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_TVS",
+  "Value": "LESD5D5.0CT1G",
+  "Footprint": "Diode_SMD:D_SOD-523",
+  "Description": "5V 150W TVS Diode Bi-Directional",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/1912111437_LRC-LESD5D5-0CT1G_C383211.pdf",
+  "Keywords": "TVS Diode Bi-Directional",
+  "CustomFields": {
+    "MF": "LRC",
+    "MPN": "LESD5D5.0CT1G",
+    "OC_LCSC": "C383211",
+    "OC_MOUSER": ""
+  }
+}
