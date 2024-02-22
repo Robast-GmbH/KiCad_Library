@@ -1,0 +1,16 @@
+{
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_TVS",
+  "Value": "SMF30CA",
+  "Footprint": "Diode_SMD:D_SOD-123F",
+  "Description": "30V 200W TVS Diode Bi-Directional",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2205231816_Liown-SMF30CA_C2990493.pdf",
+  "Keywords": "TVS Diode Bi-Directional",
+  "CustomFields": {
+    "MF": "Liown",
+    "MPN": "SMF30CA",
+    "OC_LCSC": "C2990493",
+    "OC_MOUSER": ""
+  }
+}
