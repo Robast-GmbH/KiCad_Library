@@ -1,0 +1,16 @@
+{
+  "Library": "_Interface_CAN_LIN",
+  "Reference": "U",
+  "Symbol": "Interface_CAN_LIN:MCP2551-I-SN",
+  "Value": "MCP2551-I-SN",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "MCP2551 High-Speed CAN Transceiver",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_Microchip-Tech-MCP2551-I-SN_C7376.pdf",
+  "Keywords": "CAN SPI Interface",
+  "CustomFields": {
+    "MF": "Microchip Tech",
+    "MPN": "MCP2551-I/SN",
+    "OC_LCSC": "C7376",
+    "OC_MOUSER": ""
+  }
+}
