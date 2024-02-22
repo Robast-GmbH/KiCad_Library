@@ -1,0 +1,16 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "4K7",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 4K7 1% 100mW 75V 0603",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23162.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0603WAF4701T5E",
+    "OC_LCSC": "C23162",
+    "OC_MOUSER": ""
+  }
+}
