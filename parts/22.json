@@ -1,0 +1,16 @@
+{
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_TVS",
+  "Value": "SMF6.0CA",
+  "Footprint": "Diode_SMD:D_SOD-123F",
+  "Description": "6V 200W TVS Diode Bi-Directional",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2205181716_Liown-SMF6-0CA_C2990473.pdf",
+  "Keywords": "TVS Diode Bi-Directional",
+  "CustomFields": {
+    "MF": "Liown",
+    "MPN": "SMF6.0CA",
+    "OC_LCSC": "C2990473",
+    "OC_MOUSER": ""
+  }
+}
