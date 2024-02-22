@@ -1,0 +1,16 @@
+{
+  "Library": "_Switch",
+  "Reference": "S",
+  "Symbol": "Switch:SW_DIP_x01",
+  "Value": "TS-1187A-B-A-B",
+  "Footprint": "Robast:SW_TS-1187",
+  "Description": "Dip Tactile Switch Top 12V 50mA",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_XKB-Connectivity-TS-1187A-B-A-B_C318884.pdf",
+  "Keywords": "Switch Tactile Dip",
+  "CustomFields": {
+    "MF": "XKB Connectivity",
+    "MPN": "TS-1187A-B-A-B",
+    "OC_LCSC": "C318884",
+    "OC_MOUSER": ""
+  }
+}
