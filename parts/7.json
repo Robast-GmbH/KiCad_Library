@@ -5,7 +5,7 @@
   "Value": "100n_50V",
   "Footprint": "Capacitor_SMD:C_0402_1005Metric",
   "Description": "Capacitor 100nF 50V X7R 10% 0402",
-  "Datasheet": "",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL05B104KB54PN.do",
   "Keywords": "Cap Capacitor",
   "CustomFields": {
     "MF": "Samsung Electro-Mechanics",
