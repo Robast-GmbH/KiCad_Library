@@ -1,0 +1,16 @@
+{
+  "Library": "_C_0402",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "100n_50V",
+  "Footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "Description": "Capacitor 100nF 50V X7R 10% 0402",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL05B104KB54PNC",
+    "OC_LCSC": "C307331",
+    "OC_MOUSER": ""
+  }
+}
