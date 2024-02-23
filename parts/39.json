@@ -1,0 +1,16 @@
+{
+  "Library": "_Transistor_FET",
+  "Reference": "Q",
+  "Symbol": "Transistor_FET:AO3400A",
+  "Value": "AO3400A",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23",
+  "Description": "30V 5.7A 26.5m\u03A9@10V,5.7A 1.4W N Channel SOT-23-3L MOSFET",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/1811081213_Alpha---Omega-Semicon-AO3400A_C20917.pdf",
+  "Keywords": "MOSFET",
+  "CustomFields": {
+    "MF": "Alpha \u0026 Omega Semicon",
+    "MPN": "AO3400A",
+    "OC_LCSC": "C20917",
+    "OC_MOUSER": ""
+  }
+}
