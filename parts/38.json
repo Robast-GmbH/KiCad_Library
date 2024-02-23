@@ -1,0 +1,16 @@
+{
+  "Library": "_R_0402",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "15K",
+  "Footprint": "Resistor_SMD:R_0402_1005Metric",
+  "Description": "Resistor 15K 1% 62.5mW 50V 0402",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0402WGF1502TCE",
+    "OC_LCSC": "C25756",
+    "OC_MOUSER": ""
+  }
+}
