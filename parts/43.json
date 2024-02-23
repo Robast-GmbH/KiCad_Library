@@ -1,0 +1,16 @@
+{
+  "Library": "_LED",
+  "Reference": "D",
+  "Symbol": "Device:LED_Small",
+  "Value": "Yellow",
+  "Footprint": "LED_SMD:LED_0805_2012Metric",
+  "Description": "LED Red 0805",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf",
+  "Keywords": "LED",
+  "CustomFields": {
+    "MF": "Hubei KENTO Elec",
+    "MPN": "KT-0805Y",
+    "OC_LCSC": "C2296",
+    "OC_MOUSER": ""
+  }
+}
