@@ -1,0 +1,16 @@
+{
+  "Library": "_Switch",
+  "Reference": "S",
+  "Symbol": "Switch:SW_DIP_x01",
+  "Value": "KSS321G",
+  "Footprint": "Robast:Switch_KSS_Side_Actuated",
+  "Description": "Dip Tactile Switch Side Actuated 32V 50mA 2N Force 0.3mm Travel 100,000 Operations",
+  "Datasheet": "https://www.mouser.de/datasheet/2/240/kss-3050889.pdf",
+  "Keywords": "Switch Tactile Dip",
+  "CustomFields": {
+    "MF": "C\u0026K",
+    "MPN": "KSS321GLFS",
+    "OC_LCSC": "C221796",
+    "OC_MOUSER": ""
+  }
+}
