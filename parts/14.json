@@ -1,7 +1,7 @@
 {
   "Library": "_Transistor_BJT",
   "Reference": "Q",
-  "Symbol": "Device:Q_NPN_BCE",
+  "Symbol": "Device:Q_NPN_BEC",
   "Value": "SS8050",
   "Footprint": "Package_TO_SOT_SMD:SOT-23",
   "Description": "25V 300mW 200@100mA,1V 1.5A NPN SOT-23 Bipolar Transistors",
