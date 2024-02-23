@@ -1,0 +1,16 @@
+{
+  "Library": "_LED",
+  "Reference": "D",
+  "Symbol": "Device:LED_Small",
+  "Value": "Red",
+  "Footprint": "LED_SMD:LED_0603_1608Metric",
+  "Description": "LED Red 0603",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf",
+  "Keywords": "LED",
+  "CustomFields": {
+    "MF": "Hubei KENTO Elec",
+    "MPN": "KT-0603R",
+    "OC_LCSC": "C2286",
+    "OC_MOUSER": ""
+  }
+}
