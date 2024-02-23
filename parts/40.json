@@ -1,7 +1,7 @@
 {
   "Library": "_Transistor_FET",
   "Reference": "Q",
-  "Symbol": "Transistor_FET:AO3401A",
+  "Symbol": "Transistor_FET:TP0610T",
   "Value": "AO3401A",
   "Footprint": "Package_TO_SOT_SMD:SOT-23",
   "Description": "30V 4A 44m\u03A9@10V,4.3A 1.4W P Channel SOT-23 MOSFET",
