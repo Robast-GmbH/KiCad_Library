@@ -1,0 +1,16 @@
+{
+  "Library": "_C_0805",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "22pF_50V",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "Description": "Capacitor 22pF 50V C0G 5% 0805",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL21C220JBANNN.do",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL21C220JBANNNC",
+    "OC_LCSC": "C1804",
+    "OC_MOUSER": ""
+  }
+}
