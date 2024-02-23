@@ -1,7 +1,7 @@
 {
   "Library": "_Transistor_FET",
   "Reference": "Q",
-  "Symbol": "Device:Q_NMOS_DGS",
+  "Symbol": "Device:Q_NMOS_GSD",
   "Value": "2N7002T-7-F",
   "Footprint": "Package_TO_SOT_SMD:SOT-523",
   "Description": "60V 115mA 7.5\u03A9@5V 50mA 150mW N Channel MOSFET SOT-523",
