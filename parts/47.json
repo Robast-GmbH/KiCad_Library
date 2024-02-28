@@ -1,0 +1,16 @@
+{
+  "Library": "_Interface_Expansion",
+  "Reference": "U",
+  "Symbol": "Robast:PCA9554PW,118",
+  "Value": "PCA9554PW,118",
+  "Footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "Description": "8xI/O Expander 400kHz TSSOP-16",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/1809192221_NXP-Semicon-PCA9554PW-118_C17230.pdf",
+  "Keywords": "USB Interface",
+  "CustomFields": {
+    "MF": "NXP Semicon",
+    "MPN": "PCA9554PW,118",
+    "OC_LCSC": "C17230",
+    "OC_MOUSER": ""
+  }
+}
