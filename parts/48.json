@@ -1,0 +1,16 @@
+{
+  "Library": "_Interface_CAN_LIN",
+  "Reference": "U",
+  "Symbol": "Interface_CAN_LIN:SN65HVD230",
+  "Value": "SN65HVD230",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8",
+  "Datasheet": "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf",
+  "Keywords": "CAN Bus Transceiver",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "SN65HVD230DR",
+    "OC_LCSC": "C12084",
+    "OC_MOUSER": ""
+  }
+}
