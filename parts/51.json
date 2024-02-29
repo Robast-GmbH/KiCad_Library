@@ -1,0 +1,16 @@
+{
+  "Library": "_Switch",
+  "Reference": "S",
+  "Symbol": "Switch:SW_DIP_x02",
+  "Value": "DSWB02LHGET",
+  "Footprint": "Robast:DSWB02LHGET",
+  "Description": "2Bit SPST Red Slide",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2309061745_DongGuan-KINGTEK-Industrial-Co--LTD-DSWB02LHGET_C99421.pdf",
+  "Keywords": "Dip Switch",
+  "CustomFields": {
+    "MF": "DongGuan KINGTEK Industrial Co.,LTD",
+    "MPN": "DSWB02LHGET",
+    "OC_LCSC": "C99421",
+    "OC_MOUSER": ""
+  }
+}
