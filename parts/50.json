@@ -1,0 +1,16 @@
+{
+  "Library": "_Interface_CAN_LIN",
+  "Reference": "U",
+  "Symbol": "Robast:PESD2CAN",
+  "Value": "PESD2CANFD24L-TR",
+  "Footprint": "Robast:SOT23",
+  "Description": "ESD-Entst\u00F6rer/TVS-Dioden PESD2CANFD24L-T/SOT23/TO-236AB",
+  "Datasheet": "https://www.mouser.de/datasheet/2/916/PESD2CANFD24L_T-1892242.pdf",
+  "Keywords": "CAN ESD",
+  "CustomFields": {
+    "MF": "Nexperia",
+    "MPN": "PESD2CANFD24L-TR",
+    "OC_LCSC": "C3711787",
+    "OC_MOUSER": ""
+  }
+}
