@@ -1,0 +1,16 @@
+{
+  "Library": "_R_0805",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "22",
+  "Footprint": "Resistor_SMD:R_0805_2012Metric",
+  "Description": "Resistor 22 1% 125mW 150V 0805",
+  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F220JT5E_C17561.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0805W8F220JT5E",
+    "OC_LCSC": "C17561",
+    "OC_MOUSER": ""
+  }
+}
