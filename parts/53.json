@@ -1,0 +1,16 @@
+{
+  "Library": "_Driver_LED",
+  "Reference": "U",
+  "Symbol": "Robast:LP5030",
+  "Value": "LP5030RJVR",
+  "Footprint": "Package_DFN_QFN:VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm",
+  "Description": "30-Channel 12-Bit PWM Ultra-low Quiescent Current I2C RGB LED Driver",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/lp5030.pdf",
+  "Keywords": "LED Driver",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "LP5030RJVR",
+    "OC_LCSC": "C1850306",
+    "OC_MOUSER": ""
+  }
+}
