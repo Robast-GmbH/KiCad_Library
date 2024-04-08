@@ -1,0 +1,17 @@
+{
+  "Library": "_Connector_Molex",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_01x03",
+  "Value": "Conn_01x03_3.0mm_Molex_Micro_Fit",
+  "Footprint": "Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical",
+  "Description": "Molex Micro-Fit 3.0 Leiterplatten-Stiftleiste Gerade, 3-polig / 1-reihig, Raster 3.0mm, Kabel-Platine",
+  "Datasheet": "https://docs.rs-online.com/9031/0900766b813c3b99.pdf",
+  "Keywords": "Molex Micro-Fit",
+  "CustomFields": {
+    "MF": "Molex",
+    "MPN": "43650-0316",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_RS": "670-4723"
+  }
+}
