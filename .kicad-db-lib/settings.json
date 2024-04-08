@@ -3,7 +3,9 @@
     "MF",
     "MPN",
     "OC_LCSC",
-    "OC_MOUSER"
+    "OC_MOUSER",
+    "OC_RS",
+    "OC_CONRAD"
   ],
   "DatabasePath": "parts",
   "FootprintsPath": "footprints",
