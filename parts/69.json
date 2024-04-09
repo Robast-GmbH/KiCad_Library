@@ -1,0 +1,18 @@
+{
+  "Library": "_Interface_UART",
+  "Reference": "U",
+  "Symbol": "Robast:SN75176BDR",
+  "Value": "SN75176BDR",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "Bidirectional Differential Bus Transceiver",
+  "Datasheet": "https://www.ti.com/lit/ds/slls101h/slls101h.pdf",
+  "Keywords": "Differential Bus Transceiver",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "SN75176BDR",
+    "OC_LCSC": "C7063",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
