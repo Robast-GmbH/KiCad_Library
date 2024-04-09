@@ -1,0 +1,18 @@
+{
+  "Library": "_C_Polarized",
+  "Reference": "C",
+  "Symbol": "Device:C_Polarized",
+  "Value": "100uF_80V",
+  "Footprint": "Robast:CP_Elec_12.5x13.5",
+  "Description": "Aluminum Electrolytic Capacitor 100uF 80V \u00B120% SMD,D12.5xL13.5mm",
+  "Datasheet": "https://www.mouser.de/datasheet/2/231/161587245243-2307006.pdf",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Lelon",
+    "MPN": "VZH101M1KTR-1313",
+    "OC_LCSC": "C249839",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
