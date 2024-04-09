@@ -1,0 +1,18 @@
+{
+  "Library": "_Driver_Motor",
+  "Reference": "U",
+  "Symbol": "Robast:TMC2209-LA",
+  "Value": "TMC2209-LA",
+  "Footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias",
+  "Description": "TMC2209 Silent stepper motor driver with stealthChop2 and spreadCycle for efficient performance",
+  "Datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/TMC2209_datasheet_rev1.09.pdf",
+  "Keywords": "TMC2209",
+  "CustomFields": {
+    "MF": "TRINAMIC Motion Control GmbH",
+    "MPN": "TMC2209-LA",
+    "OC_LCSC": "C465949",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
