@@ -1,0 +1,18 @@
+{
+  "Library": "_C_0402",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "22n_50V",
+  "Footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "Description": "Capacitor 22nF 50V X7R 10% 0402",
+  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B223K500NT_C1532.pdf",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "FH",
+    "MPN": "0402B223K500NT",
+    "OC_LCSC": "C1532",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
