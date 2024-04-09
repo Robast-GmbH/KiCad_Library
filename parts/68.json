@@ -1,0 +1,18 @@
+{
+  "Library": "_Connector_JST",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_01x03",
+  "Value": "Conn_01x03_2.5mm_JST_S04B-XASK-1",
+  "Footprint": "Connector_JST:JST_XA_S03B-XASK-1_1x03_P2.50mm_Horizontal",
+  "Description": "JST pin header (standard) XA total number of poles 3 Pitch: 2.50mm S03B-XASK-1 (LF)(SN)",
+  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402261208_JST-S03B-XASK-1-LF-SN_C491707.pdf",
+  "Keywords": "JST",
+  "CustomFields": {
+    "MF": "JST",
+    "MPN": "S03B-XASK-1(LF)(SN)",
+    "OC_LCSC": "C491707",
+    "OC_MOUSER": "",
+    "OC_RS": "602-8206",
+    "OC_CONRAD": ""
+  }
+}
