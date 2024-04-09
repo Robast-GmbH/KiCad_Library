@@ -1,0 +1,18 @@
+{
+  "Library": "_R_1210",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "330m",
+  "Footprint": "Resistor_SMD:R_1210_3225Metric",
+  "Description": "Resistor 330m\u03A9 1% 500mW 500V 1210",
+  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201181800_FOJAN-FRL1210FR330TS_C2960935.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "FOJAN",
+    "MPN": "FRL1210FR330TS",
+    "OC_LCSC": "C2960935",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
