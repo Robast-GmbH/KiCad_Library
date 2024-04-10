@@ -1,0 +1,18 @@
+{
+  "Library": "_Interface_Expansion",
+  "Reference": "U",
+  "Symbol": "Robast:PCA9535PW,118",
+  "Value": "PCA9535PW,118",
+  "Footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+  "Description": "16xI/O Expander 400kHz TSSOP-24",
+  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_NXP-Semicon-PCA9535PW-118_C255606.pdf",
+  "Keywords": "I/O Expander",
+  "CustomFields": {
+    "MF": "NXP Semicon",
+    "MPN": "PCA9535PW,118",
+    "OC_LCSC": "C255606",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
+  }
+}
