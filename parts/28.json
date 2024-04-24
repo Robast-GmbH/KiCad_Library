@@ -10,7 +10,9 @@
   "CustomFields": {
     "MF": "Littelfuse",
     "MPN": "0154002.DRT",
-    "OC_LCSC": "",
-    "OC_MOUSER": ""
+    "OC_LCSC": "C206911",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": ""
   }
 }
