@@ -1,7 +1,7 @@
 {
   "Library": "_Connector_Molex",
   "Reference": "X",
-  "Symbol": "Connector_Generic:Conn_02x03_Counter_Clockwise",
+  "Symbol": "Connector_Generic:Conn_02x03_Top_Bottom",
   "Value": "Conn_02x03_3.0mm_Molex_Micro_Fit",
   "Footprint": "Connector_Molex:Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal",
   "Description": "Molex Micro-Fit 3.0 Leiterplatten-Stiftleiste gewinkelt, 6-polig / 2-reihig, Raster 3.0mm, Kabel-Platine",
