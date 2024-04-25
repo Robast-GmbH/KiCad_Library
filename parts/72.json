@@ -1,0 +1,18 @@
+{
+  "Library": "_Connector_Molex",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_02x03_Counter_Clockwise",
+  "Value": "Conn_02x03_3.0mm_Molex_Micro_Fit",
+  "Footprint": "Connector_Molex:Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal",
+  "Description": "Molex Micro-Fit 3.0 Leiterplatten-Stiftleiste gewinkelt, 6-polig / 2-reihig, Raster 3.0mm, Kabel-Platine",
+  "Datasheet": "https://docs.rs-online.com/746f/0900766b813c3a64.pdf",
+  "Keywords": "Molex Micro-Fit",
+  "CustomFields": {
+    "MF": "Molex",
+    "MPN": "43045-0600",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_RS": "233-2961",
+    "OC_CONRAD": ""
+  }
+}
