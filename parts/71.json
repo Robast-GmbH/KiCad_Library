@@ -5,7 +5,7 @@
   "Value": "PCA9535PW,118",
   "Footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
   "Description": "16xI/O Expander 400kHz TSSOP-24",
-  "Datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_NXP-Semicon-PCA9535PW-118_C255606.pdf",
+  "Datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9535_PCA9535C.pdf",
   "Keywords": "I/O Expander",
   "CustomFields": {
     "MF": "NXP Semicon",
