@@ -1201,24 +1201,6 @@
 					)
 				)
 			)
-			(pin output line
-				(at 3.81 -22.86 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at -11.43 -2.54 0)
 				(length 2.54)
@@ -1345,29 +1327,11 @@
 					)
 				)
 			)
-			(pin output line
-				(at 0 -22.86 90)
-				(length 2.54)
-				(name "5V"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "Jetson_Orin_NX_16GB_1_1"
 			(rectangle
 				(start -8.89 12.7)
-				(end 10.16 -20.32)
+				(end 10.16 -15.24)
 				(stroke
 					(width 0)
 					(type default)
@@ -1386,26 +1350,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 10.16 -15.24) (xy -8.89 -15.24)
-				)
-				(stroke
-					(width 0)
-					(type dash)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(text "GPIO"
-				(at -6.096 -17.018 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(text "USB"
