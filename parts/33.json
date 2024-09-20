@@ -2,7 +2,7 @@
   "Library": "_C_0805",
   "Reference": "C",
   "Symbol": "Device:C",
-  "Value": "220nF_50V",
+  "Value": "220n_50V",
   "Footprint": "Capacitor_SMD:C_0805_2012Metric",
   "Description": "Capacitor 220nF 50V X7R 10% 0805",
   "Datasheet": "https://product.samsungsem.com/mlcc/CL21B224KBFNNN.do",
@@ -11,6 +11,9 @@
     "MF": "Samsung Electro-Mechanics",
     "MPN": "CL21B224KBFNNNE",
     "OC_LCSC": "C5378",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": ""
   }
 }

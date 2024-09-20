@@ -2,7 +2,7 @@
   "Library": "_C_Polarized",
   "Reference": "C",
   "Symbol": "Device:C_Polarized",
-  "Value": "100uF_80V",
+  "Value": "100u_80V",
   "Footprint": "Capacitor_SMD:CP_Elec_10x10",
   "Description": "Aluminum Electrolytic Capacitor 100uF 80V \u00B120% SMD,D10xL10mm",
   "Datasheet": "https://www.mouser.de/datasheet/2/231/161587245243-2307006.pdf",
@@ -13,6 +13,7 @@
     "OC_LCSC": "C249838",
     "OC_MOUSER": "140-VZH101M1KTR1010 ",
     "OC_RS": "",
-    "OC_CONRAD": ""
+    "OC_CONRAD": "",
+    "path_to_docs": ""
   }
 }
