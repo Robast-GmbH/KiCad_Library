@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Linear",
+  "Reference": "U",
+  "Symbol": "Robast:LM317T_TO-220",
+  "Value": "LM317T",
+  "Footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "Description": "1.5A 1.2 V to 37 V Adjustable Linear Regulator, TO-220",
+  "Datasheet": "https://docs.rs-online.com/0054/0900766b813862fa.pdf",
+  "Keywords": "LDO 37 V",
+  "CustomFields": {
+    "MF": "STMicroelectronics",
+    "MPN": "LM317T",
+    "OC_LCSC": "C361026",
+    "OC_MOUSER": "",
+    "OC_RS": "714-0792",
+    "OC_CONRAD": "",
+    "path_to_docs": "documents\\Semiconductor\\Power_Management\\Linear_Voltage_Regulator\\LM317T"
+  }
+}
