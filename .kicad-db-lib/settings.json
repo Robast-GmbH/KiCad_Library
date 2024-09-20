@@ -5,7 +5,8 @@
     "OC_LCSC",
     "OC_MOUSER",
     "OC_RS",
-    "OC_CONRAD"
+    "OC_CONRAD",
+    "path_to_docs"
   ],
   "DatabasePath": "parts",
   "FootprintsPath": "footprints",
