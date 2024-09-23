@@ -4,7 +4,7 @@
   "Symbol": "Device:R",
   "Value": "1K2",
   "Footprint": "Resistor_SMD:R_0603_1608Metric",
-  "Description": "Resistor 2K7 1% 100mW 75V 0603",
+  "Description": "Resistor 1K2 1% 100mW 75V 0603",
   "Datasheet": "",
   "Keywords": "Res Resistor",
   "CustomFields": {
