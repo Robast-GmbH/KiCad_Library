@@ -11,6 +11,9 @@
     "MF": "NXP Semicon",
     "MPN": "PCA9554PW,118",
     "OC_LCSC": "C17230",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "771-PCA9554PW-T",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Semiconductors/Interface_ICs/IO-Expander/NXP"
   }
 }
