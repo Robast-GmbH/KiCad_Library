@@ -11,8 +11,9 @@
     "MF": "Molex",
     "MPN": "43045-0600",
     "OC_LCSC": "",
-    "OC_MOUSER": "",
+    "OC_MOUSER": "538-43045-0600",
     "OC_RS": "233-2961",
-    "OC_CONRAD": ""
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/Molex/Micro-Fit"
   }
 }
