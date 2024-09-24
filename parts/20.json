@@ -11,6 +11,9 @@
     "MF": "SILICON LABS",
     "MPN": "CP2102N-A02-GQFN28R",
     "OC_LCSC": "C964632",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "634-CP2102NA02QFN28R",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Semiconductors/Interface_ICs/USB/Silicon_Labs"
   }
 }
