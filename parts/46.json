@@ -4,13 +4,16 @@
   "Symbol": "Connector:USB_B_Micro",
   "Value": "USB-Micro",
   "Footprint": "Robast:AMPHENOL_USB_Micro_10118194-0001LF",
-  "Description": "USB 2.0 Micro-B SMD",
+  "Description": "USB 2.0 Micro SMD",
   "Datasheet": "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/10118194.pdf",
   "Keywords": "USB Micro",
   "CustomFields": {
     "MF": "Amphenol ICC",
     "MPN": "10118194-0001LF",
     "OC_LCSC": "C132563",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "649-10118194-0001LF",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/USB/Micro/Amphenol"
   }
 }
