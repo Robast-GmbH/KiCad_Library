@@ -11,6 +11,9 @@
     "MF": "Espressif Systems",
     "MPN": "ESP32-WROOM-32E-N8",
     "OC_LCSC": "C701342",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "356-ESP32WRM32E164PH",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Embedded_Solutions/Wireless_RF_Modules/ESP32-WROOM-32E-N8"
   }
 }
