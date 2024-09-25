@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode",
+  "Reference": "D",
+  "Symbol": "Diode:1N4001",
+  "Value": "1N4001",
+  "Footprint": "Diode_SMD:D_SMA",
+  "Description": "1A Independent Type 50V 1.1V@1A General Rectifier",
+  "Datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TWGMC-1N4001_C727079.pdf",
+  "Keywords": "Diode General Rectifier 1N4001",
+  "CustomFields": {
+    "MF": "TWGMC",
+    "MPN": "1N4001",
+    "OC_LCSC": "C727079",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Semiconductors/Discrete_Semiconductors/Diodes_Rectifiers/Rectifiers/1N4001"
+  }
+}
