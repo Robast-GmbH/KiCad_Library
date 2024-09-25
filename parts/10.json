@@ -11,6 +11,9 @@
     "MF": "MDD",
     "MPN": "SS34",
     "OC_LCSC": "C8678",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Semiconductors/Discrete_Semiconductors/Diodes_Rectifiers/Schottky_Diodes_Rectifiers/SS34"
   }
 }
