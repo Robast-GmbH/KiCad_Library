@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Linear",
+  "Reference": "U",
+  "Symbol": "Regulator_Linear:AP1117-15",
+  "Value": "LM1117MPX-3.3-NOPB",
+  "Footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "Description": "800mA Fixed 3.3V Positive SOT-223 Linear Voltage Regulators (LDO)",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/lm1117.pdf",
+  "Keywords": "LDO 3.3V",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "LM1117MPX-3.3/NOPB",
+    "OC_LCSC": "C9662",
+    "OC_MOUSER": "926-LM1117MPX3.3NOPB ",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Semiconductors/Power_Management/Linear_Voltage_Regulators/LM1117"
+  }
+}
