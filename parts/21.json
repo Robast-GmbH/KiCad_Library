@@ -11,6 +11,9 @@
     "MF": "Liown",
     "MPN": "SMF30CA",
     "OC_LCSC": "C2990493",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Circuit_Protection/ESD_Protection_Diodes_TVS_Diodes/Liown"
   }
 }
