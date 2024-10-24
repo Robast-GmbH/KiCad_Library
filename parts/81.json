@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_TVS_Dual_CAA",
+  "Value": "ESD122DMYR",
+  "Footprint": "Robast:Texas_X2SON_DMY0003A",
+  "Description": "2-Channel ESD Protection Diode for USB Type-C and HDMI 2.0",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/esd122.pdf",
+  "Keywords": "2-Channel TVS Diode Bidirectional",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "ESD122DMYR",
+    "OC_LCSC": "C1975871",
+    "OC_MOUSER": " 595-ESD122DMYR",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Circuit_Protection/ESD_Protection_Diodes_TVS_Diodes/2-Channel/TI"
+  }
+}
