@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_02x05_Odd_Even",
+  "Value": "Conn_02x05_P2.54mm_angled",
+  "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal",
+  "Description": "Conn 02x05 2.54mm angled",
+  "Datasheet": "https://www.mouser.de/datasheet/2/571/Catalog-1102350.pdf",
+  "Keywords": "Conn 02x05 2.54mm angled",
+  "CustomFields": {
+    "MF": "Preci-dip",
+    "MPN": "803-87-010-20-001101",
+    "OC_LCSC": "",
+    "OC_MOUSER": "437-8038701020001101",
+    "OC_RS": "701-9607",
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/Headers/Preci-Dip/02x05_2.54"
+  }
+}
