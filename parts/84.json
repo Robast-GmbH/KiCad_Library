@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_Phoenix",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_01x03",
+  "Value": "Conn_01x02_5.08mm_angled",
+  "Footprint": "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal",
+  "Description": "Phoenix Contact MSTBA 2.5/ 2-G-5.08 Pluggable terminal block Header 2-contacts 5.08mm pitch angled",
+  "Datasheet": "https://www.phoenixcontact.com/en-us/products/pcb-header-mstba-25-2-g-508-1757242?type=pdf",
+  "Keywords": "Phoenix Contact MSTBA",
+  "CustomFields": {
+    "MF": "Phoenix Contact",
+    "MPN": "1757242",
+    "OC_LCSC": "",
+    "OC_MOUSER": "651-1757242",
+    "OC_RS": "189-6105",
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/Phoenix/MSTBA/2-G-5,08"
+  }
+}
