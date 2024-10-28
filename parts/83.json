@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector",
+  "Reference": "X",
+  "Symbol": "Connector:8P8C_Shielded",
+  "Value": "RJ45",
+  "Footprint": "Robast:TE_RJ45_6339160-1",
+  "Description": "RJ45 PCB Connector",
+  "Datasheet": "https://www.mouser.de/datasheet/2/418/3/NG_DS_1-1773464-9_MODULAR_JACKS_0315-1231992.pdf",
+  "Keywords": "RJ45",
+  "CustomFields": {
+    "MF": "TE Connectivity",
+    "MPN": "6339160-1",
+    "OC_LCSC": "C125076",
+    "OC_MOUSER": "571-6339160-1",
+    "OC_RS": "787-1685",
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/Ethernet_Connectors/TE_Connectivity"
+  }
+}
