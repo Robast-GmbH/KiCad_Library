@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_Phoenix",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_01x02",
+  "Value": "Conn_01x02_3.5mm_angled",
+  "Footprint": "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal",
+  "Description": "RS PRO Pluggable terminal block Header 2 contacts 3.5mm pitch angled",
+  "Datasheet": "https://docs.rs-online.com/de19/0900766b8157d3c3.pdf",
+  "Keywords": "Phoenix Contact MC",
+  "CustomFields": {
+    "MF": "RS PRO",
+    "MPN": "874-5329",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_RS": "874-5329",
+    "OC_CONRAD": "",
+    "path_to_docs": "Connectors/Phoenix/MC/2-G-3,5"
+  }
+}
