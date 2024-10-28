@@ -5,12 +5,15 @@
   "Value": "4u7_50V",
   "Footprint": "Capacitor_SMD:C_1206_3216Metric",
   "Description": "Capacitor 4.7uF 50V X7R 10% 1206",
-  "Datasheet": "",
+  "Datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf",
   "Keywords": "Cap Capacitor",
   "CustomFields": {
     "MF": "FH",
     "MPN": "1206B475K500NT",
     "OC_LCSC": "C29823",
-    "OC_MOUSER": ""
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Passive_Components/Capacitors/MLCC/FH"
   }
 }
