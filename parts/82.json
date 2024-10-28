@@ -1,0 +1,19 @@
+{
+  "Library": "_Fuse",
+  "Reference": "F",
+  "Symbol": "Device:Fuse",
+  "Value": "Automotive_Fuse_Holder",
+  "Footprint": "Robast:Fuse_Holder_RS_Pro_188-4477",
+  "Description": "RS Pro Fuse Blade, For Mini Blade Automotive Fuse Block",
+  "Datasheet": "https://docs.rs-online.com/92e6/A700000006779340.pdf",
+  "Keywords": "Automotive Fuse Holder",
+  "CustomFields": {
+    "MF": "RS PRO",
+    "MPN": "188-4617",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_RS": "188-4617",
+    "OC_CONRAD": "",
+    "path_to_docs": "Circuit_Protection/Fuses/Fuse_Holder/Automotive_Fuse/RS_PRO"
+  }
+}
