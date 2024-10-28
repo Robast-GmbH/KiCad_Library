@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0805",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "120",
+  "Footprint": "Resistor_SMD:R_0805_2012Metric",
+  "Description": "Resistor 120 1% 125mW 150V 0805",
+  "Datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1200T5E_C17437.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0805W8F1200T5E",
+    "OC_LCSC": "C17437",
+    "OC_MOUSER": "",
+    "OC_RS": "",
+    "OC_CONRAD": "",
+    "path_to_docs": "Passive_Components/Resistors/UNI-ROYAL"
+  }
+}
