@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "15uH@3.0A",
+  "Footprint": "Robast:IND_ETQP3M150KVN",
+  "Description": "Integrated Polded Power Inductor 15uH@3.0A, 0.099\u03A9, I_SAT=5.1",
+  "Datasheet": "https://www.mouser.de/datasheet/2/315/AGL0000C63-1283966.pdf",
+  "Keywords": "Integrated Polded Power Inductor",
+  "CustomFields": {
+    "MF": "PANASONIC",
+    "MPN": "ETQP3M150KVN",
+    "OC_LCSC": "C542310",
+    "OC_MOUSER": "667-ETQ-P3M150KVN",
+    "OC_RS": "238-3570",
+    "OC_CONRAD": "",
+    "path_to_docs": "Passive_Components/Inductors/Power_Inductors_SMD/Panasonic"
+  }
+}
