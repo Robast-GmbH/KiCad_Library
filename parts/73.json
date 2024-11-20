@@ -14,6 +14,7 @@
     "OC_MOUSER": "",
     "OC_RS": "818-3333",
     "OC_CONRAD": "",
-    "path_to_docs": "Connectors/Ethernet_Connectors/Wurth_Electronics"
+    "path_to_docs": "Connectors/Ethernet_Connectors/Wurth_Electronics",
+    "durability": "500 Mating cycles"
   }
 }
