@@ -14,6 +14,7 @@
     "OC_MOUSER": "140-VZH101M1KTR1010 ",
     "OC_RS": "",
     "OC_CONRAD": "",
-    "path_to_docs": "Passive_Components/Capacitors/Aluminium_Electrolytic_Capacitors/Lelon"
+    "path_to_docs": "Passive_Components/Capacitors/Aluminium_Electrolytic_Capacitors/Lelon",
+    "durability": "5000h@105\u00B0C"
   }
 }

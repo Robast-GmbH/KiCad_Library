@@ -14,6 +14,7 @@
     "OC_MOUSER": "538-43650-0316",
     "OC_RS": "670-4723",
     "OC_CONRAD": "",
-    "path_to_docs": "Connectors/Molex/Micro-Fit"
+    "path_to_docs": "Connectors/Molex/Micro-Fit",
+    "durability": "30 mating cycles"
   }
 }

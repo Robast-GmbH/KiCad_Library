@@ -6,7 +6,8 @@
     "OC_MOUSER",
     "OC_RS",
     "OC_CONRAD",
-    "path_to_docs"
+    "path_to_docs",
+    "durability"
   ],
   "DatabasePath": "parts",
   "FootprintsPath": "footprints",
